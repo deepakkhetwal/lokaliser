@@ -1,0 +1,21 @@
+{
+    "header_textr": "Ebsco next",
+    "Navbar.signIn": "Sign In",
+    "Navbar.logo": "EBSCO logo",
+    "Navbar.newSearch": "New Search",
+    "Navbar.curriculum": "Curriculum Standards",
+    "Navbar.faq": "FAQs",
+    "Navbar.survey": "Share Your Feedback",
+    "Result.filter": "Filter",
+    "Result.resultCount": "Search Results:",
+    "Result.mobileMenu": "mobile menu",
+    "Result.notFoundTitle": "Page not found.",
+    "Result.notFoundMessage": "Sorry, we couldn't find the page you requested.",
+    "Result.unauthorizedTitle": "Unauthorized.",
+    "Result.unauthorizedMessage": "Sorry, you are unauthorized to view this page.",
+    "Detail.fullTextTOCTitle": "Sections",
+    "Result.clearAllFiltersError": "Please try clearing the filters.",
+    "Result.clearAllLink": "Clear filters",
+    "Result.deepak": "Deepak Testing",
+    "Result.deepak1": "Deepak Testing"
+}
